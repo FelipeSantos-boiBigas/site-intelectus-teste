@@ -45,12 +45,7 @@
         </section>
     </main>
 
-    <footer>
-        <p><strong>Intelectus</strong> é uma palavra em Latim que significa discernimento, compreensão, entendimento e percepção.
-        É a raiz de termos como "<em>intelecto</em>" e "<em>inteligência</em>" e representa a faculdade de compreender e relacionar ideias.</p>
-        <p>© Intelectus — 2025 Site de Estudos (Projeto Fictício para Trabalho Acadêmico de Desenvolvimento Web em HTML5, CSS, JavaScript e PHP)</p>
-    </footer>
-
+    <?php include 'footer.php'; ?>
     <script src="js/tema.js" defer></script>
 </body>
 </html>
